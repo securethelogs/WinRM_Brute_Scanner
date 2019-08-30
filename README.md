@@ -1,7 +1,7 @@
 # WinRM_Brute_Scanner
 ![Ctrlaltdel.blog](https://ctrla1tdel.files.wordpress.com/2019/04/cropped-thumb-1920-865098.jpg)
 
-Guide: https://ctrlaltdel.blog/?p=808
+**Guide**: https://ctrlaltdel.blog/?p=808
 
 WinRM_Brute_Scanner.ps1 allows you to scan and brute force the WinRM service remotely.
 
@@ -19,12 +19,18 @@ WinRM Ports:
 To find out more about the service: https://docs.microsoft.com/en-us/windows/win32/winrm/installation-and-configuration-for-windows-remote-management
 
 
-Importing Module
+**Importing Module**
 
 First you must download and import the module:
 
 Import-Module [Script location]
 
+
+
+**Functions**:
+
+- winrm_scanner
+- winrm_brute
 
 
 #This script was created by myself but I am not responsible for what it is used for. Please only use this on systems that you have approval for. 
