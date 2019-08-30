@@ -12,9 +12,12 @@ Download: https://github.com/ctrlaltdel-blog/WinRM_Brute_Scanner
 
 WinRM Ports:
 
-Port: 5985 (http)
-Port: 5986 (https)
+- Port: 5985 (http)
+- Port: 5986 (https)
+
+
 To find out more about the service: https://docs.microsoft.com/en-us/windows/win32/winrm/installation-and-configuration-for-windows-remote-management
+
 
 Importing Module
 
