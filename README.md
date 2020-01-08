@@ -1,14 +1,14 @@
 # WinRM_Brute_Scanner
 ![Ctrlaltdel.blog](https://ctrla1tdel.files.wordpress.com/2019/04/cropped-thumb-1920-865098.jpg)
 
-**Guide**: https://ctrlaltdel.blog/?p=808
+**Guide**: https://securethelogs.com.blog/?p=808
 
 WinRM_Brute_Scanner.ps1 allows you to scan and brute force the WinRM service remotely.
 
 
 I wrote this script to be able to scan for this service on a Windows system. Because this uses PowerShell commands, no AV should interfere, and no additional modules are required.  Once obtained, remote commands can be sent.
 
-Download: https://github.com/ctrlaltdel-blog/WinRM_Brute_Scanner
+Download: https://github.com/securethelogs/WinRM_Brute_Scanner
 
 WinRM Ports:
 
