@@ -31,7 +31,7 @@ Write-Output "   \ \____________\ \__\ \__\\ \__\ \__\\ _\\ \__\    \ \__\      
 Write-Output "    \|____________|\|__|\|__| \|__|\|__|\|__|\|__|     \|__|       |\_________\|_______|\|__|\|__|\|__| \|__|\|__| \|__|\|_______|\|__|\|__|"
 Write-Output "                                                                   \|_________|                                                             "
 Write-Output "                                                                                                                                            "
-Write-Output " Author: https://ctrlaltdel.blog"
+Write-Output " Author: https://securethelogs.com"
 Write-Output "`n"
 
 # Gather Details
