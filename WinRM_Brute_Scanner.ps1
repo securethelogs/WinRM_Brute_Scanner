@@ -10,10 +10,10 @@
 
 
 	.EXAMPLE
-		See guide: https://ctrlaltdel.blog/?p=808
+		See guide: https://securethelogs.com?p=808
 
 	.NOTES
-		Aurthor: https://ctrlaltdel.blog
+		Aurthor: https://securethelogs.com
 		
 		Idea: This script could also be modifed for other windows service.
 		Please make sure you have approval when using the brute force option.
